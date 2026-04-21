@@ -15,7 +15,3 @@
 ## Модули
 Для YouTube доступен модуль [YT-Premium-V1-RU.module](https://raw.githubusercontent.com/misha-tgshv/shadowrocket-configuration-file/refs/heads/release/modules/YT-Premium-V1-RU.module) с отключенными китайскими субтитрами и необходимыми правилами. Требует выпуск HTTPS-сертификата на устройства. Хорошо работает на iOS, плохо на macOS и не работает на Apple TV.
 
-## Актуальные списки
-- `domains_community.list` — домены сообщества «Про Shadowrocket на русском», включающие универсальные правила для популярных доменов;
-- `voice_ports.list` — порты для работы аудиозвонков в Whatsapp и Telegram;
-- `Telegram.list` — универсальный список, включающий в себя правила по доменам и диапазону IP-адресов от [@blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Telegram/Telegram.list);
